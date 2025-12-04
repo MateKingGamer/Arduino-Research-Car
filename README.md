@@ -101,11 +101,3 @@ Project is constantly evolving — new upgrades are being tested.
 
 > Contributions & ideas are welcome!
 
----
-
-## 📷 Media
-*(Add photos / CAD renders / wiring images here)*  
-Example:
-
-```md
-> 📸 Images coming soon…
